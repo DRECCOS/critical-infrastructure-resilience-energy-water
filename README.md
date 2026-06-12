@@ -628,7 +628,23 @@ el tiempo real.
 
 **\**
 
-**7. Cláusula de Auditoría, Propiedad Intelectual y Licencia
+**7. ALCANCE Y LIMITACIONES**
+
+**"Este trabajo no constituye un diseño de ingeniería definitivo ni una
+especificación técnica definitiva. Presenta un marco conceptual base de
+resiliencia física para infraestructura crítica. La propuesta queda
+abierta para que cada país lo pueda adaptar a su realidad propia,
+requiriendo un modelado técnico posterior y la validación por sus
+equipos de ingeniería competentes."**
+
+*Los cálculos numéricos, simulaciones dinámicas y el dimensionamiento de
+componentes corresponden estrictamente a la fase de ejecución e
+implementación local. El propósito central de este documento es definir
+el paradigma y los principios de diseño estructural indispensables para
+resolver la resiliencia física, un enfoque ausente en los modelos
+estándar globales hasta la fecha.*
+
+**8. Cláusula de Auditoría, Propiedad Intelectual y Licencia
 Internacional**
 
 Este marco de trabajo, arquitectura conceptual y reporte técnico adjunto
