@@ -97,13 +97,13 @@
 
 El Problema:
 
-<img src="media/image1.png" style="width:4.90685in;height:8.79167in" />
+<img src="image1.png" style="width:4.90685in;height:8.79167in" />
 
 **\**
 
 ### **Propuesta:**
 
-<img src="media/image2.jpg" style="width:7.5in;height:7.5in" />
+<img src="image2.jpg" style="width:7.5in;height:7.5in" />
 
 **\**
 
