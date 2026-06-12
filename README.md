@@ -18,11 +18,9 @@
 
 # 
 
-# MANUAL GENERAL DE RESILIENCIA FÍSICO-MECÁNICA
+## Arquitectura de Resiliencia Física para Infraestructuras Críticas (Agua y Energía)
 
-## Framework Abierto de Ingeniería para la Autodefensa de Infraestructuras Críticas
-
-## 
+## Solución Conceptual Determinista al Primer Problema de la Humanidad: El Nexo Interdependiente
 
 ## 
 
